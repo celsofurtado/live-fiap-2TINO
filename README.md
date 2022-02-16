@@ -1,1 +1,1 @@
-![Screenshot](figma.png)
+![Screenshot](figma.PNG)
